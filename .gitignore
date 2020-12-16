@@ -61,9 +61,11 @@ typings/
 
 # Yarn Integrity file
 .yarn-integrity
+yarn.lock
 
 # dotenv environment variables file
 .env
+.env.local
 .env.test
 
 # parcel-bundler cache (https://parceljs.org/)
@@ -86,3 +88,5 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+.idea/
